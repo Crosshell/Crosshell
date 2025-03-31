@@ -17,7 +17,7 @@
 
 | **Languages**           | **Testing**            | **Cloud**             |
 |-------------------------|-------------------------|-----------------------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
 
 </div>
 
