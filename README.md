@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hello! I'm Vladyslav</h1>
-<h3 align="center" style="border-bottom: 3px solid #6e5494">Backend Developer</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+%26+NestJS;Always+Learning;Building+Scalable+Solutions" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ0M2ZkaWZ6bDEyeTN5eGtxMmtzemFmam53OW5zdDQ2OWV2dnE0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mUGWX5wHBAFRGzbP06/giphy-downsized-large.gif" width="600" alt="Dev Vibes">
